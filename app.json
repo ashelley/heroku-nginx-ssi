@@ -1,5 +1,5 @@
 {
-  "name": "Nginx SSI Server"
+  "name": "Nginx SSI Server",
   "description": "Run SSI code from public/",
   "keywords": ["nginx","ssi"],
   "env": {
