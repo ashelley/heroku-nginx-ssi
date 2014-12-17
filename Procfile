@@ -1,1 +1,1 @@
-web: bin/start-nginx touch /tmp/app-initialized && tail -f /dev/null
+web: bin/start-nginx tail -f /dev/null > /tmp/app-initialized
